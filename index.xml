@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Mohamed Edamer</title>
-    <link>/</link>
+    <link>https://medamer.github.io/portfolio/</link>
     <description>Recent content in Data Science Portfolio on Mohamed Edamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://medamer.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project II: Predictiong Alzheimer&#39;s Using Machine Learning</title>
-      <link>/post/project-2/</link>
+      <link>https://medamer.github.io/portfolio/post/project-2/</link>
       <pubDate>Fri, 29 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>/post/project-2/</guid>
+      <guid>https://medamer.github.io/portfolio/post/project-2/</guid>
       <description>This Project is about using Macine learning to detect Alzeimer&amp;rsquo;s in early stages
  Started with the baseline to check how balanced is the data Splited the dataset into Train, Validation and Test sets Tryed Linear model (LogisticRegression) and Tree Based Model (RandomForestClassifier) to compare which model works best Explained individual predictions with shapley value plots Checked our results    This Project&amp;rsquo;s GitHub Link
 This Project&amp;rsquo;s Blogpost Link</description>
@@ -20,10 +20,10 @@ This Project&amp;rsquo;s Blogpost Link</description>
     
     <item>
       <title>Project I: Electricity And Air Pollution</title>
-      <link>/post/project-1/</link>
+      <link>https://medamer.github.io/portfolio/post/project-1/</link>
       <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>/post/project-1/</guid>
+      <guid>https://medamer.github.io/portfolio/post/project-1/</guid>
       <description>My project is about the electricity production using diffrent sources. I splited the sources to two categories, clean and non clean. Clean sources are Hydroelectric Conventional, Nuclear, Pumped Storage, Solar, and Wind. The non clean sources are fossil fuels and materials that come from plants, municipal and industrial wastes.
 The source of the datatset used is US Energy Information Administration www.eia.gov
  Imported 2 datasets, and cleaned them using Pandas Renamed the columns Merged them Replaced NaNs with zeros Built graphs using Matplotlib and Seaborn    This Project&amp;rsquo;s GitHub Link</description>
@@ -31,28 +31,28 @@ The source of the datatset used is US Energy Information Administration www.eia.
     
     <item>
       <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>/post/project-4/</link>
+      <link>https://medamer.github.io/portfolio/post/project-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/post/project-4/</guid>
+      <guid>https://medamer.github.io/portfolio/post/project-4/</guid>
       <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
     </item>
     
     <item>
       <title>Chapter III: Monsieur the Cardinal</title>
-      <link>/post/project-3/</link>
+      <link>https://medamer.github.io/portfolio/post/project-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>/post/project-3/</guid>
+      <guid>https://medamer.github.io/portfolio/post/project-3/</guid>
       <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://medamer.github.io/portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://medamer.github.io/portfolio/contact/</guid>
       <description>Follow me on the social media platforms.
    Platform URL     LinkedIn: https://www.linkedin.com/in/mohamed-ed/   Medium: https://edamer66.medium.com/   GitHub: https://github.com/medamer   Email: edamer.mo@gmail.com    </description>
     </item>
